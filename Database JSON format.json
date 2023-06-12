@@ -1,0 +1,494 @@
+{
+  "User": {
+    "1234567890": {
+      "Address": "Sample",
+      "Email": "Sample@sample.com",
+      "History": {
+        "01-01-01": {
+          "Cost": 20,
+          "Duration(in Hrs)": 1,
+          "Plate": "KA00ZZ0000"
+        },
+        "23-04-2023 22:49:01": {
+          "Amount": "34.0",
+          "Date": "23-04-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MG1365",
+          "Trans ID": "TKA02MG136523042023224901"
+        },
+        "23-04-2023 22:51:51": {
+          "Amount": "34.0",
+          "Date": "23-04-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MG1365",
+          "Trans ID": "TKA02MG136523042023225151"
+        },
+        "23-04-2023 23:05:37": {
+          "Amount": "34.0",
+          "Date": "23-04-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MG1365",
+          "Trans ID": "TKA02MG136523042023230537"
+        },
+        "23-04-2023 23:16:15": {
+          "Amount": "34.0",
+          "Date": "23-04-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MG1365",
+          "Trans ID": "TKA02MG136523042023231615"
+        }
+      },
+      "Name": "Sample",
+      "Transactions": {
+        "01-01-01": {
+          "Amount": 20,
+          "Name": "Smart Valet India",
+          "Trans ID": "ASDFG8970HJL89"
+        }
+      },
+      "Vehicle": {
+        "Car": {
+          "KA02MG1365": {
+            "Insured": "Yes",
+            "Model": "Honda",
+            "Name": "City",
+            "Year": 2023
+          }
+        }
+      }
+    },
+    "8970886415": {
+      "Address": "BHEL ext ",
+      "Email": "vineethbhanukoti@gmail.com",
+      "History": {
+        "02-06-2023 10:59:54": {
+          "Amount": "34.0",
+          "Date": "02-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566402062023105954"
+        },
+        "02-06-2023 11:09:00": {
+          "Amount": "34.0",
+          "Date": "02-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA51MT2257",
+          "Trans ID": "TKA51MT225702062023110900"
+        },
+        "02-06-2023 11:12:47": {
+          "Amount": "34.0",
+          "Date": "02-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05LE6565",
+          "Trans ID": "TKA05LE656502062023111247"
+        },
+        "02-06-2023 11:20:55": {
+          "Amount": "34.0",
+          "Date": "02-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897602062023112055"
+        },
+        "03-06-2023 15:28:32": {
+          "Amount": "34.0",
+          "Date": "03-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897603062023152832"
+        },
+        "03-06-2023 15:34:26": {
+          "Amount": "34.0",
+          "Date": "03-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566403062023153426"
+        },
+        "03-06-2023 15:35:55": {
+          "Amount": "34.0",
+          "Date": "03-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05LE6565",
+          "Trans ID": "TKA05LE656503062023153555"
+        },
+        "03-06-2023 15:39:13": {
+          "Amount": "34.0",
+          "Date": "03-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05LE6565",
+          "Trans ID": "TKA05LE656503062023153913"
+        },
+        "03-06-2023 16:04:42": {
+          "Amount": "34.0",
+          "Date": "03-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566403062023160442"
+        },
+        "03-06-2023 16:06:38": {
+          "Amount": "34.0",
+          "Date": "03-06-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566403062023160638"
+        },
+        "11-05-2023 12:39:57": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023123957"
+        },
+        "11-05-2023 12:46:19": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023124619"
+        },
+        "11-05-2023 12:47:22": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897611052023124722"
+        },
+        "11-05-2023 12:47:52": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA08BG8936",
+          "Trans ID": "TKA08BG893611052023124752"
+        },
+        "11-05-2023 12:47:59": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023124759"
+        },
+        "11-05-2023 12:49:39": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023124939"
+        },
+        "11-05-2023 12:50:09": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897611052023125009"
+        },
+        "11-05-2023 12:50:31": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA08BG8936",
+          "Trans ID": "TKA08BG893611052023125031"
+        },
+        "11-05-2023 12:52:42": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023125242"
+        },
+        "11-05-2023 12:54:55": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA51MT2257",
+          "Trans ID": "TKA51MT225711052023125455"
+        },
+        "11-05-2023 20:20:04": {
+          "Amount": "77.0",
+          "Date": "11-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023202004"
+        },
+        "11-05-2023 20:20:13": {
+          "Amount": "77.0",
+          "Date": "11-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897611052023202013"
+        },
+        "11-05-2023 20:20:18": {
+          "Amount": "77.0",
+          "Date": "11-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA08BG8936",
+          "Trans ID": "TKA08BG893611052023202018"
+        },
+        "11-05-2023 20:38:43": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023203843"
+        },
+        "11-05-2023 20:43:33": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023204333"
+        },
+        "11-05-2023 21:13:39": {
+          "Amount": "34.0",
+          "Date": "11-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566411052023211339"
+        },
+        "12-05-2023 07:27:40": {
+          "Amount": "34.0",
+          "Date": "12-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566412052023072740"
+        },
+        "12-05-2023 09:29:11": {
+          "Amount": "34.0",
+          "Date": "12-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566412052023092911"
+        },
+        "12-05-2023 09:29:38": {
+          "Amount": "34.0",
+          "Date": "12-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA51MT2257",
+          "Trans ID": "TKA51MT225712052023092938"
+        },
+        "12-05-2023 09:30:05": {
+          "Amount": "34.0",
+          "Date": "12-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897612052023093005"
+        },
+        "12-05-2023 11:47:41": {
+          "Amount": "34.0",
+          "Date": "12-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566412052023114741"
+        },
+        "12-05-2023 19:29:07": {
+          "Amount": "77.0",
+          "Date": "12-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05LE6565",
+          "Trans ID": "TKA05LE656512052023192907"
+        },
+        "12-05-2023 19:29:40": {
+          "Amount": "34.0",
+          "Date": "12-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566412052023192940"
+        },
+        "12-05-2023 19:30:02": {
+          "Amount": "77.0",
+          "Date": "12-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MZ1412",
+          "Trans ID": "TKA02MZ141212052023193002"
+        },
+        "12-05-2023 19:30:34": {
+          "Amount": "77.0",
+          "Date": "12-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897612052023193034"
+        },
+        "12-05-2023 19:31:03": {
+          "Amount": "77.0",
+          "Date": "12-05-2023",
+          "Duration": "8",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA51MT2257",
+          "Trans ID": "TKA51MT225712052023193103"
+        },
+        "13-05-2023 14:08:20": {
+          "Amount": "34.0",
+          "Date": "13-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MZ1412",
+          "Trans ID": "TKA02MZ141213052023140820"
+        },
+        "22-04-2023 16:04:00": {
+          "Amount": "34.0",
+          "Date": "22-04-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566422042023160400"
+        },
+        "26-05-2023 16:53:50": {
+          "Amount": "34.0",
+          "Date": "26-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566426052023165350"
+        },
+        "27-05-2023 09:20:42": {
+          "Amount": "245.0",
+          "Date": "26-05-2023",
+          "Duration": "41",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05ND5664",
+          "Trans ID": "TKA05ND566427052023092042"
+        },
+        "27-05-2023 09:21:42": {
+          "Amount": "245.0",
+          "Date": "26-05-2023",
+          "Duration": "41",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA05LE6565",
+          "Trans ID": "TKA05LE656527052023092142"
+        },
+        "27-05-2023 10:09:11": {
+          "Amount": "34.0",
+          "Date": "27-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02BH8976",
+          "Trans ID": "TKA02BH897627052023100911"
+        },
+        "27-05-2023 10:14:21": {
+          "Amount": "34.0",
+          "Date": "27-05-2023",
+          "Duration": "1",
+          "Name": "Smart Valet Ind",
+          "Plate": "KA02MG0987",
+          "Trans ID": "TKA02MG098727052023101421"
+        }
+      },
+      "Name": "Vineeth Bhanukoti ",
+      "Vehicle": {
+        "Car": {
+          "KA05ND5664": {
+            "Insured": "Yes",
+            "Model": "Mahindra",
+            "Name": "XUV300",
+            "Year": 2021
+          }
+        },
+        "null": {
+          "KA05LE6565": {
+            "Insured": "Yes",
+            "Model": "Swift",
+            "Name": "Maruthi Suzuki",
+            "Year": 2023
+          },
+          "KA51MT2257": {
+            "Insured": "Yes",
+            "Model": "Hyundai ",
+            "Name": "verna",
+            "Year": 2022
+          }
+        },
+        "twowheeler": {
+          "KA02BH8976": {
+            "Insured": "Yes",
+            "Model": "Suzuki",
+            "Name": "Apache",
+            "Year": 2022
+          },
+          "KA02MG0987": {
+            "Insured": "Yes",
+            "Model": "Honda ",
+            "Name": "CB350",
+            "Year": 2022
+          },
+          "KA08BG8936": {
+            "Insured": "Yes",
+            "Model": "TVS",
+            "Name": "Jupyter",
+            "Year": 2022
+          }
+        }
+      }
+    },
+    "9845855946": {
+      "Address": "MG road Bangalore ",
+      "Email": "vijay_rkoppal@yahoo.com",
+      "Name": "Vijaya Shankar ",
+      "Vehicle": {
+        "Car": {
+          "KA05EQ3476": {
+            "Insured": "Yes",
+            "Model": "Honda",
+            "Name": "Activa ",
+            "Year": 2019
+          }
+        }
+      }
+    },
+    "Tower": {
+      "12917597-77510148": {
+        "KA02MG1365": "-1",
+        "KA08BG8936": "-1",
+        "Message": true,
+        "Proceed": 1,
+        "System": {
+          "Bottom": 5,
+          "free": "123456",
+          "occupied": "0"
+        },
+        "Verified": {
+          "ib": ""
+        },
+        "count": {
+          "items": 0
+        }
+      }
+    }
+  }
+}
